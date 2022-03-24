@@ -1,24 +1,9 @@
 # Exercise 05 TIC TAC TOE 
-### Deadline 01.01.2022
+### Deadline 31.01.2022
 
 In this exercise you should program the popular game Tic Tac Toe. 
 [Here you can find more information about the game:](https://en.wikipedia.org/wiki/Tic-tac-toe)
 
-
-## Task 1
-Some task
-
-## Task 2
-More work todo 😥
-
-<br>
-
-> This might be helpful
-
-~~~java
-public class HelloWorld {
-    public static void main(String[] args) {
-        System.out.println("Hello, World!"); 
-    }
-}
-~~~
+There is also a screenshot which you can find in the folder.
+It doesn't have to look exactly like this, you can be more creative :)
+Have fun in programming and playing the game!
