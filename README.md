@@ -1,7 +1,9 @@
-# Exercise 00 Template 
+# Exercise 05 TIC TAC TOE 
 ### Deadline 01.01.2022
 
-Program some cool stuff
+In this exercise you should program the popular game Tic Tac Toe. 
+[Here you can find more information about the game:](https://en.wikipedia.org/wiki/Tic-tac-toe)
+
 
 ## Task 1
 Some task
